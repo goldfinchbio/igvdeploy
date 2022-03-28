@@ -1,8 +1,8 @@
 
 # Welcome to IGV WebApp Setup!
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`ec2-igv-webapp-stack`)
-which contains an EC2 Instance which hosts the IGV WebApp.
+This branch is meant for setting up on EC2 standalone instance. To set it up on serverless, try using the main/master branch.
+It demonstrates a CDK app with an instance of a stack (`ec2-igv-webapp-stack`) which contains an EC2 Instance which hosts the IGV WebApp.
 
 This project is inspired by : https://github.com/igvteam/igv-webapp .
 
